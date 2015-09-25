@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Service Center</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="reg_btn_txt">I am a new user</string>
+    <string name="exist_btn_txt">I am an existing user</string>
+    <string name="logout_btn_txt">Logout</string>
+    <string name="title_activity_validate_user">Welcome Back!</string>
+</resources>
